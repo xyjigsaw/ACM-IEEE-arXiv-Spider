@@ -35,7 +35,7 @@ abstract | varchar | 255
 citation | int | 0
 
 
-
+![](https://github.com/xyjigsaw/ACM-IEEE-arXiv-Spider/blob/master/MySQL-Spider.png)
 
 # Features
 1. A Script runs automatically to get free proxies (HTTP only) and will be integrated to scrapy-based main program soon.
