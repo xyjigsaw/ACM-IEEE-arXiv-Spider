@@ -63,3 +63,4 @@ scrapy crawl IEEE_Spider
 - proxy downloader integration
 - MongoDB Storage
 - Robuster Xpath rules
+- uuid for database
