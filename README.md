@@ -60,7 +60,7 @@ scrapy crawl IEEE_Spider
 
 - IEEE Spider (The HTML is JS-dynamic.)
 - arXix (easy)
-- proxy downloader integration
+- Proxy downloader integration
 - MongoDB Storage
 - Robuster Xpath rules
-- uuid for database
+- UUID for database
