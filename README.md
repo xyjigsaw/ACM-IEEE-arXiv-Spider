@@ -9,6 +9,7 @@ The project is part of my graduation design which aims to crawl structured infor
 - Python 3.6
 - MySQL 8.0.17
 - scrapy
+- scrapy_proxies
 - logging
 - re
 - pymysql
