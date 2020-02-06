@@ -1,6 +1,6 @@
 # ACM-IEEE-arXiv Info Spider
 
-The project is part of my graduation design which aims to crawl structured information of papers in ACM, IEEE and arXiv digital library.
+The project is part of my graduation design which aims to crawl structured information of papers from ACM, IEEE and arXiv digital library.
 
 **Keywords**: Python, Scrapy, MySQL, Papers
 
@@ -16,7 +16,7 @@ The project is part of my graduation design which aims to crawl structured infor
 - json
 - fake_useragent
 
-## The Data Structure of Database
+## Data Structure of Database
 - MYSQL_DBNAME = 'papers'
 - TABLE_NAME = {'ACM_Data', 'IEEE_Data', 'arXiv_Data'}
 
@@ -49,19 +49,20 @@ In terminal
 ```
 scrapy crawl ACM_Spider
 ```
+or
 ```
 scrapy crawl IEEE_Spider
 ```
-...
+etc.
 
 # Developing in Process
 
 - IEEE Spider (The HTML is JS-dynamic.)
 - arXix (easy)
-- Proxy downloader integration
+- Proxy Downloader Integration
 - MongoDB Storage
-- Robuster Xpath rules
-- UUID for database
+- Robuster Xpath Rules
+- UUID for Database
 
 # Some pics
 ![](https://github.com/xyjigsaw/ACM-IEEE-arXiv-Spider/blob/master/MySQL-Spider.png)
