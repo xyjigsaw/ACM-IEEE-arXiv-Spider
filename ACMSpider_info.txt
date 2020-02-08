@@ -1,0 +1,581 @@
+
+========================
+标题：THESUS: Organizing Web document collections based on link semantics
+作者：Maria Halkidi,Benjamin Nguyen,Iraklis Varlamis,Michalis Vazirgiannis
+年份：November 2003
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 12, Issue 4
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-003-0100-6
+摘要：The requirements for effective search and management of the WWW are stronger thanever. Currently Web documents are classified based on their content not taking intoaccount the fact that these documents are connected to each other by links. We claim...
+引用：17
+========================
+========================
+标题：Composing Web services on the Semantic Web
+作者：Brahim Medjahed,Athman Bouguettaya,Ahmed K. Elmagarmid
+年份：November 2003
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 12, Issue 4
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-003-0101-5
+摘要：Service composition is gaining momentum as the potential silver bullet for the envisioned Semantic Web. It purports to take the Web to unexplored efficiencies and provide a flexible approachfor promoting all types of activities in tomorrow’s Web. ...
+引用：98
+========================
+========================
+标题：Managing multiple and distributed ontologies on the Semantic Web
+作者：A. Maedche,B. Motik,L. Stojanovic
+年份：November 2003
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 12, Issue 4
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-003-0102-4
+摘要：In traditional software systems, significant attention is devoted to keeping moduleswell separated and coherent with respect to functionality, thus ensuring that changesin the system are localized to a handful of modules. Reuse is seen as the key ...
+引用：30
+========================
+========================
+标题：POESIA: An ontological workflow approach for composing Web services in agriculture
+作者：Renato Fileto,Ling Liu,Calton Pu,Eduardo Delgado Assad,Claudia Bauzer Medeiros
+年份：November 2003
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 12, Issue 4
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-003-0103-3
+摘要：This paper describes the POESIA approach to systematic composition of Web services.This pragmatic approach is strongly centered in the use of domain-specific multidimensionalontologies. Inspired by applications needs and founded on ontologies, ...
+引用：16
+========================
+========================
+标题：Learning to match ontologies on the Semantic Web
+作者：AnHai Doan,Jayant Madhavan,Robin Dhamankar,Pedro Domingos,Alon Halevy
+年份：November 2003
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 12, Issue 4
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-003-0104-2
+摘要：On the Semantic Web, data will inevitably come from many different ontologies, andinformation processing across ontologies is not possible without knowing the semanticmappings between them. Manually finding such mappings is tedious, error-prone, and...
+引用：78
+========================
+========================
+标题：A framework for modeling and evaluating automatic semantic reconciliation
+作者：Avigdor Gal,Ateret Anaby-Tavor,Alberto Trombetta,Danilo Montesi
+年份：March 2005
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 14, Issue 1
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-003-0115-z
+摘要：The introduction of the Semantic Web vision and the shift toward machine understandableWeb resources has unearthed the importance of automatic semantic reconciliation. Consequently,new tools for automating the process were proposed. In this work we ...
+引用：33
+========================
+========================
+标题：ViSWeb—the Visual Semantic Web: unifying human and machine knowledge representations with Object-Process Methodology
+作者：Dov Dori
+年份：May 2004
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 13, Issue 2
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-004-0120-x
+摘要：The Visual Semantic Web (ViSWeb) is a new paradigm for enhancing the current SemanticWeb technology. Based on Object-Process Methodology (OPM), which enables modelingof systems in a single graphic and textual model, ViSWeb provides for representation...
+引用：3
+========================
+========================
+标题：An effective and efficient algorithm for high-dimensional outlier detection
+作者：C. Aggarwal,S. Yu
+年份：April 2005
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 14, Issue 2
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-004-0125-5
+摘要：The outlier detection problem has important applications in the field of fraud detection,network robustness analysis, and intrusion detection. Most such applications are mostimportant for high-dimensional domains in which the data can contain hundreds ...
+引用：29
+========================
+========================
+标题：Operator scheduling in data stream systems
+作者：Brian Babcock,Shivnath Babu,Mayur Datar,Rajeev Motwani,Dilys Thomas
+年份：December 2004
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 13, Issue 4
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-004-0132-6
+摘要：In many applications involving continuous data streams, data arrival is bursty anddata rate fluctuates over time. Systems that seek to give rapid or real-time queryresponses in such an environment must be prepared to deal gracefully with bursts in...
+引用：43
+========================
+========================
+标题：Wavelet synopsis for hierarchical range queries with workloads
+作者：Sudipto Guha,Hyoungmin Park,Kyuseok Shim
+年份：August 2008
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 17, Issue 5
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-007-0052-3
+摘要：Synopses structures and approximate query answering have become increasingly importantin DSS/ OLAP applications with stringent response time requirements. Range queriesare an important class of problems in this domain, and have a wide variety of ...
+引用：5
+========================
+========================
+标题：Databases with uncertainty and lineage
+作者：Omar Benjelloun,Anish Das Sarma,Alon Halevy,Martin Theobald,Jennifer Widom
+年份：March 2008
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 17, Issue 2
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-007-0080-z
+摘要：This paper introducesuldb s, an extension of relational databases with simple yet expressive constructs forrepresenting and manipulating bothlineageanduncertainty . Uncertain data and data lineage are two important areas of data management that...
+引用：58
+========================
+========================
+标题：Efficient storage and retrieval of probabilistic latent semantic information for information retrieval
+作者：Laurence A. Park,Kotagiri Ramamohanarao
+年份：January 2009
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 18, Issue 1
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-008-0093-2
+摘要：Probabilistic latent semantic analysis (PLSA) is a method for computing term and documentrelationships from a document set. The probabilistic latent semantic index (PLSI)has been used to store PLSA information, but unfortunately the PLSI uses ...
+引用：4
+========================
+========================
+标题：B-tries for disk-based string management
+作者：Nikolas Askitis,Justin Zobel
+年份：January 2009
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 18, Issue 1
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-008-0094-1
+摘要：A wide range of applications require that large quantities of data be maintained insort order on disk. The B-tree, and its variants, are an efficient general-purposedisk-based data structure that is almost universally used for this task. The B-trie...
+引用：5
+========================
+========================
+标题：A layered framework supporting personal information integration and application design for the semantic desktop
+作者：Isabel F. Cruz,Huiyong Xiao
+年份：November 2008
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 17, Issue 6
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-008-0102-5
+摘要：With the development of inexpensive storage devices, space usage is no longer a bottleneckfor computer users. However, the increasingly large amount of personal informationposes a critical problem to those users: traditional file organization in ...
+引用：4
+========================
+========================
+标题：Supporting exact indexing of arbitrarily rotated shapes and periodic time series under Euclidean and warping distance measures
+作者：Eamonn Keogh,Li Wei,Xiaopeng Xi,Michail Vlachos,Sang-Hee Lee,Pavlos Protopapas
+年份：June 2009
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 18, Issue 3
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-008-0111-4
+摘要：Shape matching and indexing is important topic in its own right, and is a fundamentalsubroutine in most shape data mining algorithms. Given the ubiquity of shape, shapematching is an important problem with applications in domains as diverse as ...
+引用：30
+========================
+========================
+标题：Adversarial-knowledge dimensions in data privacy
+作者：Bee-Chung Chen,Kristen Lefevre,Raghu Ramakrishnan
+年份：April 2009
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 18, Issue 2
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-008-0118-x
+摘要：Privacy is an important issue in data publishing. Many organizations distribute non-aggregatepersonal data for research, and they must take steps to ensure that an adversary cannotpredict sensitive information pertaining to individuals with high ...
+引用：0
+========================
+========================
+标题：Data integration with uncertainty
+作者：Xin Luna Dong,Alon Halevy,Cong Yu
+年份：April 2009
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 18, Issue 2
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-008-0119-9
+摘要：This paper reports our first set of results on managing uncertainty in data integration.We posit that data-integration systems need to handle uncertainty at three levelsand do so in a principled fashion. First, the semantic mappings between the data ...
+引用：37
+========================
+========================
+标题：Efficient processing of probabilistic reverse nearest neighbor queries over uncertain data
+作者：Xiang Lian,Lei Chen
+年份：June 2009
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 18, Issue 3
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-008-0123-0
+摘要：Reverse nearest neighbor (RNN) search is very crucial in many real applications. Inparticular, given a database and a query object, an RNN query retrieves all the dataobjects in the database that have the query object as their nearest neighbors. Often,...
+引用：24
+========================
+========================
+标题：SW-Store: a vertically partitioned DBMS for Semantic Web data management
+作者：Daniel J. Abadi,Adam Marcus,Samuel R. Madden,Kate Hollenbach
+年份：April 2009
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 18, Issue 2
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-008-0125-y
+摘要：Efficient management of RDF data is an important prerequisite for realizing the SemanticWeb vision. Performance and scalability issues are becoming increasingly pressingas Semantic Web technology is applied to real-world applications. In this paper, ...
+引用：72
+========================
+========================
+标题：Anytime measures for top-k algorithms on exact and fuzzy data sets
+作者：Benjamin Arai,Gautam Das,Dimitrios Gunopulos,Nick Koudas
+年份：April 2009
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 18, Issue 2
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-008-0127-9
+摘要：Top-k queries on large multi-attribute data sets are fundamental operations in informationretrieval and ranking applications. In this article, we initiate research on the anytimebehavior of top-k algorithms on exact and fuzzy data. In particular, ...
+引用：8
+========================
+========================
+标题：THESUS: Organizing Web document collections based on link semantics
+作者：Maria Halkidi,Benjamin Nguyen,Iraklis Varlamis,Michalis Vazirgiannis
+年份：November 2003
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 12, Issue 4
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-003-0100-6
+摘要：The requirements for effective search and management of the WWW are stronger thanever. Currently Web documents are classified based on their content not taking intoaccount the fact that these documents are connected to each other by links. We claim...
+引用：17
+========================
+========================
+标题：Composing Web services on the Semantic Web
+作者：Brahim Medjahed,Athman Bouguettaya,Ahmed K. Elmagarmid
+年份：November 2003
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 12, Issue 4
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-003-0101-5
+摘要：Service composition is gaining momentum as the potential silver bullet for the envisioned Semantic Web. It purports to take the Web to unexplored efficiencies and provide a flexible approachfor promoting all types of activities in tomorrow’s Web. ...
+引用：98
+========================
+========================
+标题：Managing multiple and distributed ontologies on the Semantic Web
+作者：A. Maedche,B. Motik,L. Stojanovic
+年份：November 2003
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 12, Issue 4
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-003-0102-4
+摘要：In traditional software systems, significant attention is devoted to keeping moduleswell separated and coherent with respect to functionality, thus ensuring that changesin the system are localized to a handful of modules. Reuse is seen as the key ...
+引用：30
+========================
+========================
+标题：POESIA: An ontological workflow approach for composing Web services in agriculture
+作者：Renato Fileto,Ling Liu,Calton Pu,Eduardo Delgado Assad,Claudia Bauzer Medeiros
+年份：November 2003
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 12, Issue 4
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-003-0103-3
+摘要：This paper describes the POESIA approach to systematic composition of Web services.This pragmatic approach is strongly centered in the use of domain-specific multidimensionalontologies. Inspired by applications needs and founded on ontologies, ...
+引用：16
+========================
+========================
+标题：Learning to match ontologies on the Semantic Web
+作者：AnHai Doan,Jayant Madhavan,Robin Dhamankar,Pedro Domingos,Alon Halevy
+年份：November 2003
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 12, Issue 4
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-003-0104-2
+摘要：On the Semantic Web, data will inevitably come from many different ontologies, andinformation processing across ontologies is not possible without knowing the semanticmappings between them. Manually finding such mappings is tedious, error-prone, and...
+引用：78
+========================
+========================
+标题：A framework for modeling and evaluating automatic semantic reconciliation
+作者：Avigdor Gal,Ateret Anaby-Tavor,Alberto Trombetta,Danilo Montesi
+年份：March 2005
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 14, Issue 1
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-003-0115-z
+摘要：The introduction of the Semantic Web vision and the shift toward machine understandableWeb resources has unearthed the importance of automatic semantic reconciliation. Consequently,new tools for automating the process were proposed. In this work we ...
+引用：33
+========================
+========================
+标题：ViSWeb—the Visual Semantic Web: unifying human and machine knowledge representations with Object-Process Methodology
+作者：Dov Dori
+年份：May 2004
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 13, Issue 2
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-004-0120-x
+摘要：The Visual Semantic Web (ViSWeb) is a new paradigm for enhancing the current SemanticWeb technology. Based on Object-Process Methodology (OPM), which enables modelingof systems in a single graphic and textual model, ViSWeb provides for representation...
+引用：3
+========================
+========================
+标题：An effective and efficient algorithm for high-dimensional outlier detection
+作者：C. Aggarwal,S. Yu
+年份：April 2005
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 14, Issue 2
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-004-0125-5
+摘要：The outlier detection problem has important applications in the field of fraud detection,network robustness analysis, and intrusion detection. Most such applications are mostimportant for high-dimensional domains in which the data can contain hundreds ...
+引用：29
+========================
+========================
+标题：Operator scheduling in data stream systems
+作者：Brian Babcock,Shivnath Babu,Mayur Datar,Rajeev Motwani,Dilys Thomas
+年份：December 2004
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 13, Issue 4
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-004-0132-6
+摘要：In many applications involving continuous data streams, data arrival is bursty anddata rate fluctuates over time. Systems that seek to give rapid or real-time queryresponses in such an environment must be prepared to deal gracefully with bursts in...
+引用：43
+========================
+========================
+标题：Wavelet synopsis for hierarchical range queries with workloads
+作者：Sudipto Guha,Hyoungmin Park,Kyuseok Shim
+年份：August 2008
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 17, Issue 5
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-007-0052-3
+摘要：Synopses structures and approximate query answering have become increasingly importantin DSS/ OLAP applications with stringent response time requirements. Range queriesare an important class of problems in this domain, and have a wide variety of ...
+引用：5
+========================
+========================
+标题：Databases with uncertainty and lineage
+作者：Omar Benjelloun,Anish Das Sarma,Alon Halevy,Martin Theobald,Jennifer Widom
+年份：March 2008
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 17, Issue 2
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-007-0080-z
+摘要：This paper introducesuldb s, an extension of relational databases with simple yet expressive constructs forrepresenting and manipulating bothlineageanduncertainty . Uncertain data and data lineage are two important areas of data management that...
+引用：58
+========================
+========================
+标题：Efficient storage and retrieval of probabilistic latent semantic information for information retrieval
+作者：Laurence A. Park,Kotagiri Ramamohanarao
+年份：January 2009
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 18, Issue 1
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-008-0093-2
+摘要：Probabilistic latent semantic analysis (PLSA) is a method for computing term and documentrelationships from a document set. The probabilistic latent semantic index (PLSI)has been used to store PLSA information, but unfortunately the PLSI uses ...
+引用：4
+========================
+========================
+标题：B-tries for disk-based string management
+作者：Nikolas Askitis,Justin Zobel
+年份：January 2009
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 18, Issue 1
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-008-0094-1
+摘要：A wide range of applications require that large quantities of data be maintained insort order on disk. The B-tree, and its variants, are an efficient general-purposedisk-based data structure that is almost universally used for this task. The B-trie...
+引用：5
+========================
+========================
+标题：A layered framework supporting personal information integration and application design for the semantic desktop
+作者：Isabel F. Cruz,Huiyong Xiao
+年份：November 2008
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 17, Issue 6
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-008-0102-5
+摘要：With the development of inexpensive storage devices, space usage is no longer a bottleneckfor computer users. However, the increasingly large amount of personal informationposes a critical problem to those users: traditional file organization in ...
+引用：4
+========================
+========================
+标题：Supporting exact indexing of arbitrarily rotated shapes and periodic time series under Euclidean and warping distance measures
+作者：Eamonn Keogh,Li Wei,Xiaopeng Xi,Michail Vlachos,Sang-Hee Lee,Pavlos Protopapas
+年份：June 2009
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 18, Issue 3
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-008-0111-4
+摘要：Shape matching and indexing is important topic in its own right, and is a fundamentalsubroutine in most shape data mining algorithms. Given the ubiquity of shape, shapematching is an important problem with applications in domains as diverse as ...
+引用：30
+========================
+========================
+标题：Adversarial-knowledge dimensions in data privacy
+作者：Bee-Chung Chen,Kristen Lefevre,Raghu Ramakrishnan
+年份：April 2009
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 18, Issue 2
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-008-0118-x
+摘要：Privacy is an important issue in data publishing. Many organizations distribute non-aggregatepersonal data for research, and they must take steps to ensure that an adversary cannotpredict sensitive information pertaining to individuals with high ...
+引用：0
+========================
+========================
+标题：Data integration with uncertainty
+作者：Xin Luna Dong,Alon Halevy,Cong Yu
+年份：April 2009
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 18, Issue 2
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-008-0119-9
+摘要：This paper reports our first set of results on managing uncertainty in data integration.We posit that data-integration systems need to handle uncertainty at three levelsand do so in a principled fashion. First, the semantic mappings between the data ...
+引用：37
+========================
+========================
+标题：Efficient processing of probabilistic reverse nearest neighbor queries over uncertain data
+作者：Xiang Lian,Lei Chen
+年份：June 2009
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 18, Issue 3
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-008-0123-0
+摘要：Reverse nearest neighbor (RNN) search is very crucial in many real applications. Inparticular, given a database and a query object, an RNN query retrieves all the dataobjects in the database that have the query object as their nearest neighbors. Often,...
+引用：24
+========================
+========================
+标题：SW-Store: a vertically partitioned DBMS for Semantic Web data management
+作者：Daniel J. Abadi,Adam Marcus,Samuel R. Madden,Kate Hollenbach
+年份：April 2009
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 18, Issue 2
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-008-0125-y
+摘要：Efficient management of RDF data is an important prerequisite for realizing the SemanticWeb vision. Performance and scalability issues are becoming increasingly pressingas Semantic Web technology is applied to real-world applications. In this paper, ...
+引用：72
+========================
+========================
+标题：Anytime measures for top-k algorithms on exact and fuzzy data sets
+作者：Benjamin Arai,Gautam Das,Dimitrios Gunopulos,Nick Koudas
+年份：April 2009
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 18, Issue 2
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-008-0127-9
+摘要：Top-k queries on large multi-attribute data sets are fundamental operations in informationretrieval and ranking applications. In this article, we initiate research on the anytimebehavior of top-k algorithms on exact and fuzzy data. In particular, ...
+引用：8
+========================
+========================
+标题：Special issue: best papers of VLDB 2007
+作者：Minos Garofalakis,Johannes Gehrke,Divesh Srivastava
+年份：April 2009
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 18, Issue 2
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-009-0132-7
+摘要：For a large number of data management problems, it would be very useful to be ableto obtain a few samples from a data set, and to use the samples to guess the largest(or smallest) value in the entire data set. Min/max online aggregation, Top-k query...
+引用：0
+========================
+========================
+标题：Guessing the extreme values in a data set: a Bayesian method and its applications
+作者：Mingxi Wu,Chris Jermaine
+年份：April 2009
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 18, Issue 2
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-009-0133-6
+摘要：In general terms, an uncertain relation encodes a set of possible certain relations.There are many ways to represent uncertainty, ranging from alternative values forattributes to rich constraint languages. Among the possible models for uncertain data,...
+引用：1
+========================
+========================
+标题：Representing uncertain data: models, properties, and algorithms
+作者：Anish Das Sarma,Omar Benjelloun,Alon Halevy,Shubha Nabar,Jennifer Widom
+年份：October 2009
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 18, Issue 5
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-009-0147-0
+摘要：We present a decomposition-based approach to managing probabilistic information. Weintroduce world-set decompositions (WSDs), a space-efficient and complete representation system for finite sets of worlds.We study the problem of efficiently evaluating ...
+引用：17
+========================
+========================
+标题：$${10^{(10^{6})}}$$ worlds and beyond: efficient representation and processing of incomplete information
+作者：Lyublena Antova,Christoph Koch,Dan Olteanu
+年份：October 2009
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 18, Issue 5
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-009-0149-y
+摘要：In several emerging and important applications, such as location-based services, sensormonitoring and biological databases, the values of the data items are inherently imprecise.A useful query class for these data is the Probabilistic Nearest-Neighbor ...
+引用：13
+========================
+========================
+标题：Scalable processing of snapshot and continuous nearest-neighbor queries over one-dimensional uncertain data
+作者：Jinchuan Chen,Reynold Cheng,Mohamed Mokbel,Chi-Yin Chow
+年份：October 2009
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 18, Issue 5
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-009-0152-3
+摘要：Due to numerous applications producing noisy data, e.g., sensor data, experimentaldata, data from uncurated sources, information extraction, etc., there has been asurge of interest in the development of probabilistic databases. Most probabilistic...
+引用：5
+========================
+========================
+标题：PrDB: managing and exploiting rich correlations in probabilistic databases
+作者：Prithviraj Sen,Amol Deshpande,Lise Getoor
+年份：October 2009
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 18, Issue 5
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-009-0153-2
+摘要：Incompleteness due to missing attribute values (aka "null values") is very commonin autonomous web databases, on which user accesses are usually supported throughmediators. Traditional query processing techniques that focus on the strict soundnessof ...
+引用：32
+========================
+========================
+标题：Query processing over incomplete autonomous databases: query rewriting using learned data dependencies
+作者：Garrett Wolf,Aravind Kalavagattu,Hemal Khatri,Raju Balakrishnan,Bhaumik Chokshi,Jianchun Fan,Yi Chen,Subbarao Kambhampati
+年份：October 2009
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 18, Issue 5
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-009-0155-0
+摘要：In data integration efforts, portal development in particular, much development timeis devoted to entity resolution. Often advanced similarity measurement techniquesare used to remove semantic duplicates or solve other semantic conflicts. It proves...
+引用：6
+========================
+========================
+标题：Qualitative effects of knowledge rules and user feedback in probabilistic data integration
+作者：Maurice Keulen,Ander Keijzer
+年份：October 2009
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 18, Issue 5
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-009-0156-z
+摘要：A major source of uncertainty in databases is the presence of duplicate items, i.e.,records that refer to the same real-world entity. However, accurate deduplicationis a difficult task and imperfect data cleaning may result in loss of valuable ...
+引用：11
+========================
+========================
+标题：Special issue on uncertain and probabilistic databases
+作者：Peter J. Haas,Dan Suciu
+年份：October 2009
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 18, Issue 5
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-009-0158-x
+摘要：The moving k nearest neighbor (MkNN) query continuously finds the k nearest neighbors of a moving query point. MkNN queries can be efficiently processed through the use of safe regions. In general,a safe region is a region within which the query point ...
+引用：0
+========================
+========================
+标题：Creating probabilistic databases from duplicated data
+作者：Oktie Hassanzadeh,Renée J. Miller
+年份：October 2009
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 18, Issue 5
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-009-0161-2
+摘要：Recent advances in flash storage have made it an attractive alternative for data storagein a wide spectrum of computing devices, such as embedded sensors, mobile phones,PDA's, laptops, and even servers. However, flash storage has many unique ...
+引用：10
+========================
+========================
+标题：Analysis and evaluation of V*-kNN: an efficient algorithm for moving kNN queries
+作者：Sarana Nutanong,Rui Zhang,Egemen Tanin,Lars Kulik
+年份：June 2010
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 19, Issue 3
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-009-0163-0
+摘要：The measure of similarity between objects is a very useful tool in many areas of computerscience, including information retrieval. SimRank is a simple and intuitive measureof this kind, based on a graph-theoretic model. SimRank is typically computed ...
+引用：16
+========================
+========================
+标题：Online maintenance of very large random samples on flash storage
+作者：Suman Nath,Phillip B. Gibbons
+年份：February 2010
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 19, Issue 1
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-009-0164-z
+摘要：Recently, due to the imprecise nature of the data generated from a variety of streamingapplications, such as sensor networks, query processing on uncertain data streamshas become an important problem. However, all the existing works on uncertain data...
+引用：12
+========================
+========================
+标题：Accuracy estimate and optimization techniques for SimRank computation
+作者：Dmitry Lizorkin,Pavel Velikhov,Maxim Grinev,Denis Turdakov
+年份：February 2010
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 19, Issue 1
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-009-0168-8
+摘要：Linear discriminant analysis (LDA) has been a popular method for dimensionality reduction,which preserves class separability. The projection vectors are commonly obtained bymaximizing the between-class covariance and simultaneously minimizing the ...
+引用：31
+========================
+========================
+标题：Sliding-window top-k queries on uncertain streams
+作者：Cheqing Jin,Ke Yi,Lei Chen,Jeffrey Xu Yu,Xuemin Lin
+年份：June 2010
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 19, Issue 3
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-009-0171-0
+摘要：In this paper, we study the problem of protecting privacy in the publication of set-valueddata. Consider a collection of supermarket transactions that contains detailed informationabout items bought together by individuals. Even after removing all ...
+引用：6
+========================
+========================
+标题：Speed up kernel discriminant analysis
+作者：Deng Cai,Xiaofei He,Jiawei Han
+年份：February 2011
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 20, Issue 1
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-010-0189-3
+摘要：This paper investigates constraints for matching records from unreliable data sources. (a) We introduce a class of matching dependencies (mds) for specifying the semantics of unreliable data. As opposed to static constraintsfor schema design, mds are ...
+引用：30
+========================
+========================
+标题：Local and global recoding methods for anonymizing set-valued data
+作者：Manolis Terrovitis,Nikos Mamoulis,Panos Kalnis
+年份：February 2011
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 20, Issue 1
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-010-0192-8
+摘要：Traditional information systems return answers after a user submits a complete query.Users often feel "left in the dark" when they have limited knowledge about the underlyingdata and have to use a try-and-see approach for finding information. A recent ...
+引用：20
+========================
+========================
+标题：Dynamic constraints for record matching
+作者：Wenfei Fan,Hong Gao,Xibei Jia,Jianzhong Li,Shuai Ma
+年份：August 2011
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 20, Issue 4
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-010-0206-6
+摘要：Query processing in the uncertain database has played an important role in many real-worldapplications due to the wide existence of uncertain data. Although many previous techniquescan correctly handle precise data, they are not directly applicable to ...
+引用：20
+========================
+========================
+标题：Efficient fuzzy full-text type-ahead search
+作者：Guoliang Li,Shengyue Ji,Chen Li,Jianhua Feng
+年份：August 2011
+期刊/会议：The VLDB Journal — The International Journal on Very Large Data Bases, Volume 20, Issue 4
+主题：Artificial intelligence
+URL：https://doi.org/10.1007/s00778-011-0218-x
+摘要：Uncertain data streams, where data are incomplete and imprecise, have been observedin many environments. Feeding such data streams to existing stream systems producesresults of unknown quality, which is of paramount concern to monitoring applications....
+引用：19
+========================
