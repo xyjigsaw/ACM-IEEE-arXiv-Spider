@@ -1,6 +1,7 @@
 # ACM-IEEE-arXiv Info Spider
 
-![](https://github.com/xyjigsaw/ACM-IEEE-arXiv-Spider/blob/master/acemap.ico)![(Acemap)](www.Acemap.info)
+![](https://github.com/xyjigsaw/ACM-IEEE-arXiv-Spider/blob/master/acemap.ico)
+![Acemap](https://www.Acemap.info)
 
 The project is part of my graduation design which aims to crawl structured information of papers from ACM, IEEE and arXiv digital library.
 
