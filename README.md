@@ -3,11 +3,17 @@
 ![](https://github.com/xyjigsaw/ACM-IEEE-arXiv-Spider/blob/master/acemap.ico)
 [Acemap](https://www.Acemap.info)
 
-The project is part of my graduation design which aims to crawl structured information of papers from ACM, IEEE and arXiv digital library.
+The project is part of my graduation design which aims to crawl structured information of papers from digital library.
+
+### Supported Libraries
+- ACM (Done)
+- IEEE (Developing)
+- arXiv (Done)
+- AAAI (Done)
 
 **Keywords**: Python, Scrapy, MySQL, Papers
 
-# Dependency
+# Dependencies and Requirements
 
 - Python 3.6
 - MySQL 8.0.17
