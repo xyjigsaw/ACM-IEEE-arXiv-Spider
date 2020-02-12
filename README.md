@@ -13,7 +13,7 @@ The project is part of my graduation design which aims to crawl structured infor
 
 **Keywords**: Python, Scrapy, MySQL, Papers
 
-# Dependencies and Requirements
+# Dependencies & Requirements
 
 - Python 3.6
 - MySQL 8.0.17
@@ -76,5 +76,5 @@ etc.
 - Robuster Xpath Rules
 - UUID for Database
 
-# Some pics
+# Preview
 ![](https://github.com/xyjigsaw/ACM-IEEE-arXiv-Spider/blob/master/MySQL-Spider.png)
