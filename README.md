@@ -27,6 +27,8 @@ The project is part of my graduation design which aims to crawl structured infor
 - fake_useragent
 
 ## Data Structure of Database
+You can execute papers.sql to initialize the database.
+
 - MYSQL_DBNAME = 'papers'
 - TABLE_NAME = {'ACM_Data', 'IEEE_Data', 'arXiv_Data'}
 
