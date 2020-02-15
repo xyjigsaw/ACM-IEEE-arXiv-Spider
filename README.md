@@ -6,10 +6,10 @@
 The project is part of my graduation design which aims to crawl structured information of papers from digital library.
 
 ### Supported Libraries
-- ACM (Done)
+- ACM (Done, Support Digital Library Search Result)
 - IEEE (Developing)
-- arXiv (Done)
-- AAAI (Done)
+- arXiv (Done, Support All Categories)
+- AAAI (Done, Support 2009-2019 AAAI Conferences)
 
 **Keywords**: Python, Scrapy, MySQL, Papers
 
@@ -55,6 +55,8 @@ citation | int | 0
 5. Asynchronous mode is used as data storage mechanism for MySQL pipeline, thus the program is more efficient and reliable when encounts data flood from spider.
 
 # Install & Run
+
+Before you launch scrapy, you should customize the settings first.
 
 In terminal
 
