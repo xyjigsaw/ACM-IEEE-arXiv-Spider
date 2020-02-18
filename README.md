@@ -7,7 +7,7 @@ The project is part of my graduation design which aims to crawl structured infor
 
 ### Supported Libraries
 - ACM (Done, Support Digital Library Search Result)
-- IEEE (Developing)
+- IEEE (Developing, Support Single Page)
 - arXiv (Done, Support All Categories)
 - AAAI (Done, Support 2009-2019 AAAI Conferences)
 
@@ -18,6 +18,8 @@ The project is part of my graduation design which aims to crawl structured infor
 - Python 3.6
 - MySQL 8.0.17
 - scrapy
+- selenium
+- PhantomJS (optional)
 - scrapy_proxies
 - logging
 - re
@@ -38,12 +40,12 @@ attribute | data_type | length | not NULL
 ---|---|---|---
 p_id | int | 0 | :white_check_mark:(key) | 
 title | varchar | 255
-authors | varchar | 255
+authors | varchar | 2047
 year | varchar | 255
 type | varchar | 255
 subjects | varchar | 255
 url | varchar | 255
-abstract | varchar | 255
+abstract | varchar | 4095
 citation | int | 0
 
 
@@ -57,6 +59,7 @@ citation | int | 0
 # Install & Run
 
 Before you launch scrapy, you should customize the settings first.
+When you start IEEE_Spider, js middleware based on selenium and PhantomJS needs adding.
 
 In terminal
 
