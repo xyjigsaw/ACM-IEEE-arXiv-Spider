@@ -6,8 +6,12 @@
 # https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 
 from scrapy import signals
+from scrapy.http import HtmlResponse
 from fake_useragent import UserAgent
 import logging
+from selenium import webdriver
+import time
+import random
 
 
 class AcaspiderSpiderMiddleware(object):
@@ -130,3 +134,19 @@ class RandomUserAgentMiddleware(object):
 
         logging.info('$-Message From Random UserAgent Middleware: ' + get_ua())
         request.headers.setdefault('User-Agent', get_ua())
+
+
+class JSMiddleware(object):
+    def process_request(self, request, spider):
+        driver = webdriver.PhantomJS("/Users/reacubeth/Downloads/phantomjs-2.1.1-macosx/bin/phantomjs")  # 指定使用的浏览器
+        driver.get(request.url)
+        time.sleep(1)
+        # js = "var q=document.documentElement.scrollTop=10000"
+        js = "window.scrollTo(0,document.body.scrollHeight)"
+
+        driver.execute_script(js)
+        time.sleep(random.randint(1, 2))
+
+        body = driver.page_source
+        print("访问" + request.url)
+        return HtmlResponse(driver.current_url, body=body, encoding='utf-8', request=request)
