@@ -19,7 +19,7 @@ The project is part of my graduation design which aims to crawl structured infor
 - MySQL 8.0.17
 - scrapy
 - selenium
-- PhantomJS (optional)
+- PhantomJS (optional only for IEEE_Spider)
 - scrapy_proxies
 - logging
 - re
@@ -80,6 +80,10 @@ etc.
 - MongoDB Storage
 - Robuster Xpath Rules
 - UUID for Database
+
+# Bugs Found (Ask for help)
+- arXiv_Spider searches nothing when requests too much.
+- Pipeline encounters MySQL error.
 
 # Preview
 ![](https://github.com/xyjigsaw/ACM-IEEE-arXiv-Spider/blob/master/MySQL-Spider.png)
