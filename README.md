@@ -80,6 +80,7 @@ etc.
 - MongoDB Storage
 - Robuster Xpath Rules
 - UUID for Database
+- Crawl Specific Pages
 
 # Bugs Found (Ask for help)
 - arXiv_Spider searches nothing when requests too much.
