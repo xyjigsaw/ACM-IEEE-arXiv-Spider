@@ -5,6 +5,8 @@
 
 The project is part of my graduation design which aims to crawl structured information of papers from digital library.
 
+Profile spider will be released soon.
+
 ### Supported Libraries
 - ACM (Done, Support Digital Library Search Result)
 - IEEE (Developing, Support Single Page)
