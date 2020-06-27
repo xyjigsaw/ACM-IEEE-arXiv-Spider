@@ -2,9 +2,6 @@
 
 ![](https://img.shields.io/badge/Status-Developing-brightgreen.svg)
 
-![](https://github.com/xyjigsaw/ACM-IEEE-arXiv-Spider/blob/master/acemap.ico)
-[Acemap](https://www.Acemap.info)
-
 The project is part of my graduation design which aims to crawl structured information of papers from digital library.
 
 Profile spider will be released soon.
