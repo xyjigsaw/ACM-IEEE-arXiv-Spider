@@ -22,11 +22,8 @@ Profile spider will be released soon.
 - selenium
 - PhantomJS (optional only for IEEE_Spider)
 - scrapy_proxies
-- logging
-- re
 - pymysql
 - twisted
-- json
 - fake_useragent
 
 ## Data Structure of Database
