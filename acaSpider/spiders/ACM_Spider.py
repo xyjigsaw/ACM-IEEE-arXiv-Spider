@@ -62,7 +62,7 @@ class ACMSpider(scrapy.Spider):
                 item['url'].append(' ')
 
             try:
-                item['abstract'].append(self.remove_html(res.xpath('.//div[@class="issue-item__abstract truncate-text trunc-done"]/p').extract()[0]))
+                item['abstract'].append(self.remove_html(res.xpath('.//div[contains(@class, "issue-item__abstract")]/p').extract()[0]))
             except:
                 item['abstract'].append(' ')
 
